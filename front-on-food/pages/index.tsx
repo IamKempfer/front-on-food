@@ -13,10 +13,11 @@ const Home: NextPage = () => {
 
       <PageTemplate>
         <h1>Encontre opções em Delivery próximos à você.</h1>
-
+        <Search />
         <h2>
           Descubra seu novo Delivery favorito. Milhares de opções a um clique.
         </h2>
+        <Dishe />
       </PageTemplate>
     </>
   );
