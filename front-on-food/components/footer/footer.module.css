@@ -1,0 +1,4 @@
+.footer {
+  @apply text-[#909090] text-lg font-bold text-center;
+  @apply px-12;
+}
