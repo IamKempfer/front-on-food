@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import Styles from "./header.module.css"  
-import { IconBookmark, IconHome  } from "@/icosn";
+import { IconBookmark, IconHome  } from "@/icons";
 
 export function Header() {
   return(
