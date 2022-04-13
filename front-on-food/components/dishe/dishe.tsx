@@ -6,11 +6,12 @@ export function Dishe() {
   return (
     <div className={Styles.dishe}>
       <div className={Styles.wrapper}>
-        <Image 
+        <Image
           src="https://storage.googleapis.com/onfood/peperoni.jpg"
           alt="Prato"
           width={592}
           height={312}
+          layout="responsive"
         />
       </div>
       <div>
